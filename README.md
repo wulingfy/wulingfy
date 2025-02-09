@@ -15,7 +15,7 @@
 - Virtual Music Curator integrates Spotify API (graduation project of the AI minicourse)
 - Face Recognition
 - AI Image Detector
-  
+- Fashionpedia 
 <h2>Competitive Programming</h2>
 
 <h3>Global online judges</h3> 
