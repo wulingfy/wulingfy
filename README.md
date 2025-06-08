@@ -13,7 +13,7 @@
 <h2> Project </h2>
 
 - V-FingerReader Help the blinder to read by using OCR and keypoint finger detection 
-- Turto - Chatbox imporve english integrates analyse information to create DASS survey
+- Turto - Chatbox to improve your english speaking integrates analyse information to create DASS survey
 - Virtual Music Curator integrates Spotify API (graduation project of the AI minicourse)
 - Face Recognition
 - AI Image Detector
