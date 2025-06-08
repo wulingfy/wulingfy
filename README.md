@@ -11,6 +11,7 @@
 - 🎓 I'm currently a student at **Le Hong Phong High School for the Gifted**
 
 <h2> Project </h2>
+
 - V-FingerReader Help the blinder to read by using OCR and keypoint finger detection 
 - Turto - Chatbox imporve english integrates analyse information to create DASS survey
 - Virtual Music Curator integrates Spotify API (graduation project of the AI minicourse)
