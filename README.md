@@ -10,6 +10,7 @@
 
 - 🎓 I'm currently a student at **Le Hong Phong High School for the Gifted**
 
+- 📝 Author of a paper presented at a national scientific conference
 <h2> Project </h2>
 
 - Smartbin 
