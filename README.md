@@ -1,6 +1,6 @@
 <h1>Hi ✌️, I'm Wulin aka LoserDuck</h1>
 <h2>It's an honor to meet you here 👀</h2>
-<h3>About Me 🐳 </h3>
+<h3>About Me </h3>
 
 - 👩🏻‍💻 I’m currently learning **Kali Linux, competitive programming, prompt engineering, LLM, ML, DL**
 
