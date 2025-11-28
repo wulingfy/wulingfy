@@ -17,9 +17,6 @@
 - V-FingerReader Help the blinder to read by using OCR and keypoint finger detection 
 - Turto - Chatbox to improve your english speaking integrates analyse information to create DASS survey
 - Virtual Music Curator integrates Spotify API (graduation project of the AI minicourse)
-- Face Recognition
-- AI Image Detector
-- Fashionpedia 
 <h2>Competitive Programming</h2>
 
 <h3>Global online judges</h3> 
