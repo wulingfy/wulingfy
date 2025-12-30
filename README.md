@@ -3,9 +3,7 @@
 <h3>About Me </h3>
 
 - 👩🏻‍💻 I’m currently learning **Kali Linux, competitive programming, prompt engineering, LLM, ML, DL**
-
-- ✨ Title **[Codeforces Expert, AI and backend development internship]**
-
+  
 - ⚡ Fun fact **I'm just a goofy who happens to know how to code**
 
 - 🎓 I'm currently a student at **Le Hong Phong High School for the Gifted**
