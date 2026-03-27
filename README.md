@@ -8,6 +8,8 @@
 
 - 🎓 I'm currently a student at **Le Hong Phong High School for the Gifted**
 
+- 📝 Author of 2 national scientific conference papers
+
 <h2> Project </h2>
 
 - Smartbin 
